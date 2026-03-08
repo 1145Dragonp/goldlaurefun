@@ -1,0 +1,11 @@
+{
+  "record.bxyf": {
+    "subtitle": "bxyf",
+    "sounds": [
+      {
+        "name": "mmjmod:bxyf",
+        "stream": true
+      }
+    ]
+  }
+}
